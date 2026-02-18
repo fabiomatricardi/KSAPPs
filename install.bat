@@ -3,8 +3,6 @@ echo Downloading the wget binaries...
 curl -L -o wget.exe https://github.com/fabiomatricardi/KSAPPs/raw/main/wget.exe
 echo Downloading the python app folders Archive...
 wget.exe https://github.com/fabiomatricardi/KSAPPs/raw/main/KS_OandM_APPS.zip -nv --show-progress
-echo Downloading python requirements
-wget.exe https://github.com/fabiomatricardi/KSAPPs/raw/main/requirements.txt -nv --show-progress
 echo Unzipping the python app folders...
 tar -xf KS_OandM_APPS.zip
 echo Creating Virtual environment
@@ -15,4 +13,5 @@ echo Installing dependencies
 pip install -r requirements.txt
 echo starting the app...
 timeout /t 10
+
 start cmd.exe /c runSplash.bat
