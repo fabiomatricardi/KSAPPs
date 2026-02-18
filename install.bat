@@ -12,6 +12,6 @@ call .\venv\Scripts\activate.bat
 echo Installing dependencies
 pip install -r requirements.txt
 echo starting the app...
-timeout /t 10
+timeout /t 5
+start cmd.exe /c run.bat
 
-start cmd.exe /c runSplash.bat
