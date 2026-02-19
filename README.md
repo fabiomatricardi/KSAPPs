@@ -1,7 +1,22 @@
 # KSAPPs
-bundle with gradio CMS apps
+
+![Python 3.12+](https://img.shields.io/badge/Python-3.12%2B-blue)
+
+bundle with gradio CMS apps used in Operation & Maintenance Oil&Gas plant
+- CCR Master Override register
+- Maintenance WorkOrder
+- Shutdown Log
+- Risk Assessment tool 
 
 <img src='https://github.com/fabiomatricardi/KSAPPs/blob/main/splashscreen.jpg' width=700>
+
+## Requirements
+You need Python >= 3.12
+> If you don't have it installed, download it from [here](https://www.python.org/ftp/python/3.12.9/python-3.12.9-amd64.exe)
+> 
+> ### ⚠️ Remember to flag **Add to PATH**. 
+
+---
 
 ## 📙 Instructions
 ### 1️⃣  Method 1
