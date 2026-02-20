@@ -10,6 +10,11 @@ bundle with gradio CMS apps used in Operation & Maintenance Oil&Gas plant
 
 <img src='https://github.com/fabiomatricardi/KSAPPs/blob/main/splashscreen.jpg' width=700>
 
+<img src='https://github.com/fabiomatricardi/KSAPPs/raw/main/images/004.jpg' width=400> <img src='https://github.com/fabiomatricardi/KSAPPs/raw/main/images/005.jpg' width=400>
+
+<img src='https://github.com/fabiomatricardi/KSAPPs/raw/main/images/006.jpg' width=400> <img src='https://github.com/fabiomatricardi/KSAPPs/raw/main/images/007.jpg' width=400>
+
+
 ## Requirements
 You need Python >= 3.12
 > If you don't have it installed, download it from [here](https://www.python.org/ftp/python/3.12.9/python-3.12.9-amd64.exe)
@@ -17,6 +22,9 @@ You need Python >= 3.12
 > ### ⚠️ Remember to flag **Add to PATH**. 
 
 ---
+
+<img src='https://github.com/fabiomatricardi/KSAPPs/raw/main/images/001.jpg' width=400> <img src='https://github.com/fabiomatricardi/KSAPPs/raw/main/images/002.jpg' width=400>
+
 
 ## 📙 Instructions
 ### 1️⃣  Method 1
